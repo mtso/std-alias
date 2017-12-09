@@ -1,4 +1,4 @@
-# z6
+# std-alias
 
 Node.js aliases to improve coding speed.
 
